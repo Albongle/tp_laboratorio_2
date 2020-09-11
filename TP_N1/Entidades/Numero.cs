@@ -17,7 +17,8 @@ namespace Entidades
         private static double ValidarNumero(string strNumero)
         {
             double numeroAux;
-            if (!(double.TryParse(strNumero, out numeroAux)))
+            
+            if (!(double.TryParse(strNumero, out numeroAux)) || strNumero.Contains("."))
             {
                 numeroAux = 0;
             }

@@ -67,35 +67,5 @@ namespace TP_N1
                 this.btnConvertirABinario.Enabled = false;
                 this.btnConvertirADecimal.Enabled = true;
         }
-        private void txtNumero1_Leave(object sender, EventArgs e)
-        {
-            double aux;
-            if (!(double.TryParse(this.txtNumero1.Text, out aux)))
-            {
-                MessageBox.Show("Solo puede ingresar numeros", "Ingreso de operandos", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                this.txtNumero1.Focus();
-            }
-        }
-        private void txtNumero2_Leave(object sender, EventArgs e)
-        {
-            double aux;
-            if (!(double.TryParse(this.txtNumero2.Text, out aux)))
-            {
-                MessageBox.Show("Solo puede ingresar numeros", "Ingreso de operandos", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                this.txtNumero2.Focus();
-            }
-        }
-        private void cmbOperador_Leave(object sender, EventArgs e)
-        {
-            foreach (char charAux in this.cmbOperador.Text)
-            {
-                if (char.IsNumber(charAux) || char.IsWhiteSpace(charAux) || char.IsLetter(charAux))
-                {
-                    MessageBox.Show("Seleccione un operador", "Ingreso de operador", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    this.cmbOperador.Focus();
-                    break;
-                }
-            }
-        }
     }
 }

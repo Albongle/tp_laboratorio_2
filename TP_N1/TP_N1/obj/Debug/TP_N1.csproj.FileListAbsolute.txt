@@ -11,3 +11,6 @@ E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\obj\Debug\TP_N1.Form
 E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\bin\Debug\Entidades.dll
 E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\bin\Debug\Entidades.pdb
 E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\obj\Debug\TP_N1.csproj.CopyComplete
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\obj\Debug\TP_N1.csprojAssemblyReference.cache
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\obj\Debug\TP_N1.exe
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\TP_N1\obj\Debug\TP_N1.pdb

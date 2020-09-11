@@ -46,18 +46,16 @@
             this.txtNumero1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero1.Location = new System.Drawing.Point(12, 31);
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(84, 26);
+            this.txtNumero1.Size = new System.Drawing.Size(84, 30);
             this.txtNumero1.TabIndex = 0;
-            this.txtNumero1.Leave += new System.EventHandler(this.txtNumero1_Leave);
             // 
             // txtNumero2
             // 
             this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero2.Location = new System.Drawing.Point(192, 31);
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(84, 26);
+            this.txtNumero2.Size = new System.Drawing.Size(84, 30);
             this.txtNumero2.TabIndex = 2;
-            this.txtNumero2.Leave += new System.EventHandler(this.txtNumero2_Leave);
             // 
             // cmbOperador
             // 
@@ -65,9 +63,8 @@
             this.cmbOperador.FormattingEnabled = true;
             this.cmbOperador.Location = new System.Drawing.Point(102, 31);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(84, 26);
+            this.cmbOperador.Size = new System.Drawing.Size(84, 32);
             this.cmbOperador.TabIndex = 1;
-            this.cmbOperador.Leave += new System.EventHandler(this.cmbOperador_Leave);
             // 
             // lblResultado
             // 
@@ -75,7 +72,7 @@
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResultado.Location = new System.Drawing.Point(301, 37);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(19, 20);
+            this.lblResultado.Size = new System.Drawing.Size(24, 25);
             this.lblResultado.TabIndex = 9;
             this.lblResultado.Text = "0";
             // 
@@ -84,7 +81,7 @@
             this.lblEtiqueta.AutoSize = true;
             this.lblEtiqueta.Location = new System.Drawing.Point(282, 38);
             this.lblEtiqueta.Name = "lblEtiqueta";
-            this.lblEtiqueta.Size = new System.Drawing.Size(13, 13);
+            this.lblEtiqueta.Size = new System.Drawing.Size(14, 15);
             this.lblEtiqueta.TabIndex = 8;
             this.lblEtiqueta.Text = "=";
             // 

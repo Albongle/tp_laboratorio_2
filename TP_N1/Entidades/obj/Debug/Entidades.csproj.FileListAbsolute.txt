@@ -4,3 +4,9 @@ E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entida
 E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.dll
 E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.pdb
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.dll
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.pdb
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\bin\Debug\Entidades.dll
+A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\bin\Debug\Entidades.pdb
