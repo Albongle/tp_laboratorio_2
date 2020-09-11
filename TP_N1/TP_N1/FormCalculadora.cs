@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
@@ -66,6 +67,56 @@ namespace TP_N1
                 this.lblResultado.Text = new Numero().DecimalBinario(this.lblResultado.Text);
                 this.btnConvertirABinario.Enabled = false;
                 this.btnConvertirADecimal.Enabled = true;
+        }
+
+        private void txtNumero1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (Char.IsDigit(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (Char.IsControl(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (e.KeyChar.ToString().Equals(",") && !(this.txtNumero1.Text.Contains(",")))
+            {
+                e.Handled = false;
+            }
+            else if (e.KeyChar.ToString().Equals("-") && !(this.txtNumero1.Text.Contains("-")))
+            {
+
+            }
+            else
+            {
+                e.Handled = true;
+                MessageBox.Show("Solo numeros (Positivos/Negativos) o numeros con coma", "Alerta",MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+        }
+
+        private void txtNumero2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (Char.IsDigit(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (Char.IsControl(e.KeyChar))
+            {
+                e.Handled = false;
+            }
+            else if (e.KeyChar.ToString().Equals(",") && !(this.txtNumero2.Text.Contains(",")))
+            {
+                e.Handled = false;
+            }
+            else if (e.KeyChar.ToString().Equals("-") && !(this.txtNumero2.Text.Contains("-")))
+            {
+
+            }
+            else
+            {
+                e.Handled = true;
+                MessageBox.Show("Solo numeros (Positivos/Negativos) o numeros con coma", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
         }
     }
 }

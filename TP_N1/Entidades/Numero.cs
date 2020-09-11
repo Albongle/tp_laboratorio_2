@@ -18,7 +18,7 @@ namespace Entidades
         {
             double numeroAux;
             
-            if (!(double.TryParse(strNumero, out numeroAux)) || strNumero.Contains("."))
+            if (!(double.TryParse(strNumero, out numeroAux)))
             {
                 numeroAux = 0;
             }
