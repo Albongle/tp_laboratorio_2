@@ -83,7 +83,7 @@ namespace TP_N1
             {
                 e.Handled = false;
             }
-            else if (e.KeyChar.ToString().Equals("-") && !(this.txtNumero1.Text.Contains("-")))
+            else if (e.KeyChar.ToString().Equals("-") && this.txtNumero1.Text.Length==0)
             {
                 e.Handled = false;
             }
@@ -108,7 +108,7 @@ namespace TP_N1
             {
                 e.Handled = false;
             }
-            else if (e.KeyChar.ToString().Equals("-") && !(this.txtNumero2.Text.Contains("-")))
+            else if (e.KeyChar.ToString().Equals("-") && this.txtNumero2.Text.Length == 0)
             {
                 e.Handled = false;
             }

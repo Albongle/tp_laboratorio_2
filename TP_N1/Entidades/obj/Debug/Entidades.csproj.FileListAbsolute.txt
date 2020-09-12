@@ -10,3 +10,9 @@ A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entida
 A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.pdb
 A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\bin\Debug\Entidades.dll
 A:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aleja\Desktop\tp_laboratorio_2\TP_N1\Entidades\bin\Debug\Entidades.dll
+C:\Users\aleja\Desktop\tp_laboratorio_2\TP_N1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aleja\Desktop\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.dll
+C:\Users\aleja\Desktop\tp_laboratorio_2\TP_N1\Entidades\obj\Debug\Entidades.pdb
