@@ -1,0 +1,10 @@
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\bin\Debug\TP_N2.exe.config
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\bin\Debug\TP_N2.exe
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\bin\Debug\TP_N2.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\bin\Debug\Entidades.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\bin\Debug\Entidades.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\obj\Debug\TP_N2.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\obj\Debug\TP_N2.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\obj\Debug\TP_N2.csproj.CopyComplete
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\obj\Debug\TP_N2.exe
+E:\Facultad\2- Programacion II\tp_laboratorio_2\TP_N2\TP_N2\obj\Debug\TP_N2.pdb
