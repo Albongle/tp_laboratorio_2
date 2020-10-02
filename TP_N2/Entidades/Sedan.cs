@@ -65,9 +65,8 @@ namespace Entidades
 
             returnAux.AppendLine("SEDAN");
             returnAux.AppendLine(base.Mostrar());
-            returnAux.AppendFormat("TAMAÑO : {0}", this.Tamanio);
-            returnAux.AppendLine("TIPO : " + this.tipo);
-            returnAux.AppendLine("");
+            returnAux.AppendFormat("TAMAÑO: {0}\n", this.Tamanio);
+            returnAux.AppendLine("TIPO: " + this.tipo);
             returnAux.AppendLine("---------------------");
 
             return returnAux.ToString();

@@ -62,8 +62,7 @@ namespace Entidades
         {
             StringBuilder returnAux = new StringBuilder();
 
-            returnAux.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count, taller.espacioDisponible);
-            returnAux.AppendLine("");
+            returnAux.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n", taller.vehiculos.Count, taller.espacioDisponible);
             foreach (Vehiculo vehiculo in taller.vehiculos)
             {
                 switch (tipo)
