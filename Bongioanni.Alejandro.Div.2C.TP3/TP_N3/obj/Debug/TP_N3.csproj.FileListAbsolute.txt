@@ -1,0 +1,16 @@
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\TP_N3.exe.config
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\TP_N3.exe
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\TP_N3.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\Archivos.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\ClasesAbstractas.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\ClasesInstanciables.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\Exepciones.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\Archivos.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\ClasesAbstractas.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\ClasesInstanciables.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\bin\Debug\Exepciones.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\obj\Debug\TP_N3.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\obj\Debug\TP_N3.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\obj\Debug\TP_N3.csproj.CopyComplete
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\obj\Debug\TP_N3.exe
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP3\TP_N3\obj\Debug\TP_N3.pdb
