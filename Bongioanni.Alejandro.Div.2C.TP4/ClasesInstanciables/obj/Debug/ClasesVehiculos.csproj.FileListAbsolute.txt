@@ -1,8 +1,0 @@
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\bin\Debug\ClasesVehiculos.dll
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\bin\Debug\ClasesVehiculos.pdb
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\bin\Debug\ClasesExcepciones.dll
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\bin\Debug\ClasesExcepciones.pdb
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\obj\Debug\ClasesVehiculos.csproj.CoreCompileInputs.cache
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\obj\Debug\ClasesVehiculos.csproj.CopyComplete
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\obj\Debug\ClasesVehiculos.dll
-C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesInstanciables\obj\Debug\ClasesVehiculos.pdb
