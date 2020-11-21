@@ -1,0 +1,36 @@
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\Test.exe
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\Test.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesArchivos.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesBBDD.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesEstacionamiento.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesExcepciones.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesVehiculos.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesArchivos.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesBBDD.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesEstacionamiento.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesExcepciones.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesVehiculos.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.exe
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\Test.exe.config
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\Test.exe
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\Test.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesArchivos.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesBBDD.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesEstacionamiento.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesExcepciones.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesVehiculos.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesArchivos.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesBBDD.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesEstacionamiento.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesExcepciones.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\bin\Debug\ClasesVehiculos.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.exe
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\Test\obj\Debug\Test.pdb

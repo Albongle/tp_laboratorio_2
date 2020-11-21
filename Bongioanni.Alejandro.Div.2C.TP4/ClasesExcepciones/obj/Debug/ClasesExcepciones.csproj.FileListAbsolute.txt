@@ -1,0 +1,11 @@
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\bin\Debug\ClasesExcepciones.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\bin\Debug\ClasesExcepciones.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\bin\Debug\ClasesExcepciones.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\bin\Debug\ClasesExcepciones.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\ClasesExcepciones\obj\Debug\ClasesExcepciones.pdb

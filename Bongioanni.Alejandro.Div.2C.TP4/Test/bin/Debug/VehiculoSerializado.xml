@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Camioneta">
+  <Patente>DH101CG</Patente>
+  <HoraIngreso>2020-11-21T12:20:43.3369771-03:00</HoraIngreso>
+  <HoraEgreso>0001-01-01T00:00:00</HoraEgreso>
+</Vehiculo>

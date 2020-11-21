@@ -1,0 +1,42 @@
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\MITestUnitario.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\MITestUnitario.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesExcepciones.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesVehiculos.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesExcepciones.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesVehiculos.pdb
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.csproj.CopyComplete
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.dll
+C:\Users\aleja\Desktop\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\MITestUnitario.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\MITestUnitario.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesExcepciones.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesVehiculos.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesExcepciones.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\ClasesVehiculos.pdb
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.csprojAssemblyReference.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.csproj.CoreCompileInputs.cache
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.csproj.CopyComplete
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.dll
+E:\Facultad\2- Programacion II\tp_laboratorio_2\Bongioanni.Alejandro.Div.2C.TP4\MITestUnitario\obj\Debug\MITestUnitario.pdb
