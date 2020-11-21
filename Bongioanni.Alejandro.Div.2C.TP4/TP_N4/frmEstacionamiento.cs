@@ -144,7 +144,6 @@ namespace TP_N4
                     {
                         MessageBox.Show($"{ex.Message}", "Importe Ingresado", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
-
                 }
                 else
                 {
@@ -209,7 +208,7 @@ namespace TP_N4
         /// <param name="e"></param>
         private void lstbVehiculos_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-            if(!object.ReferenceEquals(this.listBoxVehiculos.SelectedItem, null))
+            if (!object.ReferenceEquals(this.listBoxVehiculos.SelectedItem, null))
             {
                 this.grpManual.Text = "Salida";
                 this.grpManual.Visible = true;
@@ -310,12 +309,12 @@ namespace TP_N4
         /// <param name="vehiculo">Es el vehiculo a ingresar</param>
         private void IngresoAEstacionamiento(Vehiculo vehiculo)
         {
-            string datosIngreso= string.Empty;
+            string datosIngreso = string.Empty;
             try
             {
                 datosIngreso = this.estacionamiento + vehiculo; //guarda los datos de ingreso para imprimior tck
                 this.listBoxVehiculos.Items.Add(vehiculo);
-                this.GenerarTicket(vehiculo.Patente, vehiculo.HoraIngreso,datosIngreso);
+                this.GenerarTicket(vehiculo.Patente, vehiculo.HoraIngreso, datosIngreso);
                 this.ActualizarBarraEstado(++this.lugaresOcupados);
             }
             catch (VehiculoEstacionamientoException ex)

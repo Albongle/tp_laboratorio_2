@@ -59,14 +59,12 @@ namespace ClasesBBDD
                         VehiculosDAO.hilo = new Thread(LeerRegistros);
                     }
                     VehiculosDAO.hilo.Start();
-
                 }
                 else if (!object.ReferenceEquals(hilo, null) && !value)
                 {
                     VehiculosDAO.hilo.Abort();
                 }
             }
-
         }
         #endregion
 
@@ -76,13 +74,21 @@ namespace ClasesBBDD
         /// </summary>
         private static void LeerRegistros()
         {
-            int qRegistros = VehiculosDAO.MaxRegistroDeVehiculos();
-            while (contador <= qRegistros)
+            try
             {
-                VehiculosDAO.EventoActualizar.Invoke(VehiculosDAO.LeerVehiculoPorId(contador));
-                contador++;
-                Thread.Sleep(20000);
+                int qRegistros = VehiculosDAO.MaxRegistroDeVehiculos();
+                while (contador <= qRegistros)
+                {
+                    VehiculosDAO.EventoActualizar.Invoke(VehiculosDAO.LeerVehiculoPorId(contador));
+                    contador++;
+                    Thread.Sleep(20000);
+                }
             }
+            catch(BaseDeDatosException ex)
+            {
+                throw ex;
+            }
+
         }
         /// <summary>
         /// Consulta registros de la Base de vehiculos por ID y genera una instancia de este segun su tipo
@@ -192,6 +198,10 @@ namespace ClasesBBDD
                     sqlConnection.Open();
                 }
                 sqlCommand.ExecuteNonQuery();
+            }
+            catch(Exception ex)
+            {
+                throw new BaseDeDatosException("Error al escribir en la BD", ex);
             }
             finally
             {
