@@ -131,7 +131,7 @@ namespace ClasesArchivos
         /// </summary>
         /// <param name="archivo">Es el nombre del archivo a generar</param>
         /// <param name="vehiculo">Son los datos a guardar en el archivo</param>
-        public void GuardarTicket(string archivo, Vehiculo vehiculo)
+        void IArchivos<Vehiculo>.GuardarTicket(string archivo, Vehiculo vehiculo)
         {
             XmlTextWriter writer = null;
             XmlSerializer serializer = null;
@@ -165,7 +165,7 @@ namespace ClasesArchivos
         /// </summary>
         /// <param name="archivo">Es el nombre del archivo a generar</param>
         /// <param name="vehiculo">Es el vehiculo donde se van a guardar los datos leidos</param>
-        public void LeerTicket(string archivo, out Vehiculo vehiculo)
+        void IArchivos<Vehiculo>.LeerTicket(string archivo, out Vehiculo vehiculo)
         {
             XmlTextReader xmlReader = null;
             XmlSerializer serializer = null;

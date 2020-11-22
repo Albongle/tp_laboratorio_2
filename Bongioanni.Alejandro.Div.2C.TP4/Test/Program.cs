@@ -60,12 +60,11 @@ namespace Test
                        
             Console.WriteLine("\n\n<Escritura y Lectura de vehiculo serializado>");
             Tickets tickets = new Tickets();
-
-            tickets.GuardarTicket("VehiculoSerializado.xml", automovil);
+            ((IArchivos<Vehiculo>)tickets).GuardarTicket("VehiculoSerializado.xml", automovil);
             Vehiculo vehiculoSerializado;
             string ruta = $"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}\\Facturas\\XML\\VehiculoSerializado.xml";
-            
-            tickets.LeerTicket(ruta, out vehiculoSerializado);
+
+            ((IArchivos<Vehiculo>)tickets).LeerTicket(ruta, out vehiculoSerializado);
             Console.WriteLine($"{vehiculoSerializado.ToString() }");
             Console.WriteLine("<--------------------------------------------------------------------------------------------------------->");
 
