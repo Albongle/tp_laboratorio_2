@@ -15,8 +15,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Estacionamiento estacionamiento;
-            estacionamiento = Estacionamiento.NuevoEstacionamiento;
+            Estacionamiento<Vehiculo> estacionamiento;
+            estacionamiento = Estacionamiento<Vehiculo>.NuevoEstacionamiento;
             estacionamiento.CapacidadEstacionamiento = 4;
             estacionamiento.NombreEstacionamiento = "Estacionamiento 24 HS";
 

@@ -14,7 +14,7 @@ namespace TP_N4
         private bool flagIngreso;
         private bool flagPrecios;
         private delegate void Callback(Vehiculo vehiculo);
-        private Estacionamiento estacionamiento;
+        private Estacionamiento<Vehiculo> estacionamiento;
         private Random espacioRandom;
         private int lugaresOcupados;
 
@@ -26,7 +26,7 @@ namespace TP_N4
         private void frmEstacionamiento_Load(object sender, EventArgs e)
         {
             this.btnEncendido.ImageIndex = 0;
-            this.estacionamiento = Estacionamiento.NuevoEstacionamiento;
+            this.estacionamiento = Estacionamiento<Vehiculo>.NuevoEstacionamiento;
             this.espacioRandom = new Random();
             this.flagIngreso = false;
             this.flagPrecios = false;

@@ -9,13 +9,13 @@ using ClasesExcepciones;
 namespace ClasesEstacionamiento
 {
 
-    public class Estacionamiento
+    public class Estacionamiento<TVehiculo> where TVehiculo:Vehiculo
     {
         #region "Atributos"
         private int espacioDisponible;
         private string nombre;
-        private List<Vehiculo> vehiculos;
-        private static Estacionamiento singleton;
+        private List<TVehiculo> vehiculos;
+        private static Estacionamiento<TVehiculo> singleton;
         #endregion
 
         #region "Constructores"
@@ -24,7 +24,7 @@ namespace ClasesEstacionamiento
         /// </summary>
         private Estacionamiento()
         {
-            this.vehiculos = new List<Vehiculo>();
+            this.vehiculos = new List<TVehiculo>();
         }
         #endregion
 
@@ -32,13 +32,13 @@ namespace ClasesEstacionamiento
         /// <summary>
         /// Propiedad estatica que devuelve una unica instancia de Estacionamiento
         /// </summary>
-        public static Estacionamiento NuevoEstacionamiento
+        public static Estacionamiento<TVehiculo> NuevoEstacionamiento
         {
             get
             {
                 if (object.ReferenceEquals(singleton, null))
                 {
-                    singleton = new Estacionamiento();
+                    singleton = new Estacionamiento<TVehiculo>();
                 }
                 return singleton;
             }
@@ -71,7 +71,7 @@ namespace ClasesEstacionamiento
         /// <summary>
         /// Devuelve la lista de Vehiculos del Estacionamiento
         /// </summary>
-        public List<Vehiculo> ListadoVehiculos
+        public List<TVehiculo> ListadoVehiculos
         {
             get
             {
@@ -88,7 +88,7 @@ namespace ClasesEstacionamiento
         /// <param name="vehiculo">Es el vehiculo a agregar al estacionamiento</param>
         /// <returns>Los datos del vehiculo ingresado</returns>
         /// <exception cref="VehiculoEstacionamientoException">Si el vehiculo ya existe o no hay mas espacio en el estacionamiento</exception>
-        public static string operator +(Estacionamiento estacionamiento, Vehiculo vehiculo)
+        public static string operator +(Estacionamiento<TVehiculo> estacionamiento, TVehiculo vehiculo)
         {
             if (estacionamiento != vehiculo && !string.IsNullOrEmpty(vehiculo.Patente) && estacionamiento.ListadoVehiculos.Count < estacionamiento.CapacidadEstacionamiento)
             {
@@ -108,7 +108,7 @@ namespace ClasesEstacionamiento
         /// <param name="vehiculo">Es ek vehiculo a retirar del estacionamiento</param>
         /// <returns>Los datos del vehiculo con su cargo por la Jornada</returns>
         /// <exception cref="VehiculoEstacionamientoException">Si el vehiculo no es parte del Estacionamiento o aun no se le establecio una hora de salida</exception>
-        public static string operator -(Estacionamiento estacionamiento, Vehiculo vehiculo)
+        public static string operator -(Estacionamiento<TVehiculo> estacionamiento, TVehiculo vehiculo)
         {
             try
             {
@@ -136,7 +136,7 @@ namespace ClasesEstacionamiento
         /// <param name="estacionamiento">Es el estacionamiento donde se va bucar el vehiculo</param>
         /// <param name="vehiculo">Es el vehiculo a buscar en el estacionamiento</param>
         /// <returns>True en caso de pertenecer al estacionamiento, de lo contrario False</returns>
-        public static bool operator ==(Estacionamiento estacionamiento, Vehiculo vehiculo)
+        public static bool operator ==(Estacionamiento<TVehiculo> estacionamiento, TVehiculo vehiculo)
         {
             bool returAux = false;
             if (estacionamiento.ListadoVehiculos.Count > 0)
@@ -158,7 +158,7 @@ namespace ClasesEstacionamiento
         /// <param name="estacionamiento">Es el estacionamiento donde se va bucar el vehiculo</param>
         /// <param name="vehiculo">Es el vehiculo a buscar en el estacionamiento</param>
         /// <returns>True en caso de NO pertenecer al estacionamiento, de lo contrario False</returns>
-        public static bool operator !=(Estacionamiento estacionamiento, Vehiculo vehiculo)
+        public static bool operator !=(Estacionamiento<TVehiculo> estacionamiento, TVehiculo vehiculo)
         {
             return !(estacionamiento == vehiculo);
         }
@@ -170,7 +170,7 @@ namespace ClasesEstacionamiento
         /// </summary>
         /// <param name="vehiculo">Es el vehiculo que va a mostrar los datos</param>
         /// <returns>Los datos del vehiculo que ingreso al Estacionamiento</returns>
-        private string InformarIngreso(Vehiculo vehiculo)
+        private string InformarIngreso(TVehiculo vehiculo)
         {
             return vehiculo.ToString();
         }
@@ -179,7 +179,7 @@ namespace ClasesEstacionamiento
         /// </summary>
         /// <param name="vehiculo">Es el vehiculo que va a mostrar los datos</param>
         /// <returns>Los datos del vehiculo que se retira del estacionamiento</returns>
-        private string InformarSalida(Vehiculo vehiculo)
+        private string InformarSalida(TVehiculo vehiculo)
         {
             StringBuilder returnAux = new StringBuilder();
             returnAux.AppendLine(vehiculo.ToString());

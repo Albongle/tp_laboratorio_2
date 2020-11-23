@@ -187,7 +187,6 @@ namespace ClasesBBDD
             {
                 string query = "INSERT INTO RegistroEstacionamiento (patente,tipoDeVehiculo,fechaDeIngreso,fechaDeEgreso,montoFacturado) VALUES (@patente,@tipoDeVehiculo,@fechaDeIngreso,@fechaDeEgreso,@montoFacturado)";
                 SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
-                //sqlCommand.Parameters.AddWithValue("id", persona.Id);
                 sqlCommand.Parameters.AddWithValue("patente", vehiculo.Patente);
                 sqlCommand.Parameters.AddWithValue("tipoDeVehiculo", (int)vehiculo.TipoVehiculo);
                 sqlCommand.Parameters.AddWithValue("fechaDeIngreso", vehiculo.HoraIngreso);
